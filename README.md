@@ -1,6 +1,6 @@
 # Validere Take-Home Assignment
 
-This repository is solely created to host the solution to the take-home assignment as part of the Data Scientist position interview process at Validere.
+This repository is solely created to host the [solution](https://github.com/arashshams/Validere/blob/master/validere.ipynb) to the take-home assignment as part of the Data Scientist position interview process at Validere.
 
 ### Dependencies
 
