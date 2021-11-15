@@ -1,12 +1,14 @@
-# Validere Take-Home Assignment
+# Toronto Housing Prices Statistical Analysis
 
-This repository is solely created to host the [solution](https://github.com/arashshams/Validere/blob/master/validere.ipynb) to the take-home assignment as part of the Data Scientist position interview process at Validere.
+This repository hosts a [statistical analysis](https://github.com/arashshams/V/blob/master/Analysis.ipynb) to answer the following open-ended question.
+
+![Question](./images/Q.png)
 
 ### Dependencies
 
-Run below commands in terminal to create the environment for running `validere.ipynb` notebook in the project root.
+If you want to reproduce the [report](https://github.com/arashshams/V/blob/master/Analysis.ipynb) (`Analysis.ipynb`) on your local, simply run below commands in terminal to create the environment for running the notebook.
 
 ```
-conda env create -f validere.yaml
-conda activate validere
+conda env create -f environment.yaml
+conda activate env
 ```
